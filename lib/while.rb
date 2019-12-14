@@ -1,7 +1,8 @@
-def using_while
+def while
   levitation_force = 6
-	
-  #your code here
-end
-
+counter = 6 
+levitation_force == 10 
+puts "Wingardium leviosa"
+counter + 1 
+end 
 
