@@ -1,0 +1,27 @@
+looping:
+
+ - a condition has to be met in order for loop to exit
+ 
+ - while/until statements: conditional statements
+ 
+ - ctr + c - stop loop
+ 
+ - while (condition)
+     keep executing logic
+     
+ - until (condition)
+   keep executing logic
+   
+   
+number = 0
+ 
+while number < 5
+  the number is #{number}
+  number += 1  
+end
+ 
+
+until number == 5
+  the number is #{number}
+  number +=1
+end  
